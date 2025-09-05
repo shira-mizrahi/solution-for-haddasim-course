@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\bin\Debug\solution for hadassim course.exe.config
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\bin\Debug\solution for hadassim course.exe
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\bin\Debug\solution for hadassim course.pdb
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\obj\Debug\solution for hadassim course.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\obj\Debug\solution for hadassim course.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\obj\Debug\solution for hadassim course.exe
+C:\Users\Dell\source\repos\solution for hadassim course\solution for hadassim course\obj\Debug\solution for hadassim course.pdb
